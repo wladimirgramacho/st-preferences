@@ -1,0 +1,58 @@
+{
+	"color_scheme": "Packages/Materialize/schemes/Material Augmented Reaction.tmTheme",
+	"file_exclude_patterns":
+	[
+		"*.out",
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace",
+		".byebug_history",
+		"package-lock.json",
+		"*.log",
+		"*.lock",
+		"*.cache",
+		"knapsack_rspec_report.json",
+		"*.js.map"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".circleci",
+		"coverage",
+		"node_modules",
+		"public/packs"
+	],
+	"font_face": "Andale Mono",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"scroll_past_end": false,
+	"tab_size": 2,
+	"theme": "Material Brogrammer.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"wrap_width": 80
+}

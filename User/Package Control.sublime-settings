@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"Elixir",
+		"FileIcons",
+		"GitGutter",
+		"MarkdownLivePreview",
+		"MarkdownPreview",
+		"Materialize",
+		"Package Control",
+		"Rails Completions",
+		"RSpec",
+		"Ruby Completions",
+		"Ruby Slim",
+		"Sass",
+		"SideBarEnhancements",
+		"Theme - Nexus"
+	]
+}
